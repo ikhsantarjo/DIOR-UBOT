@@ -18,7 +18,7 @@ from userbot.events import register
 
 absen = [
     "**Hadir Ganteng** 🥵",
-    "**Hadir Dior ganteng** 😎",
+    "**Hadir Joo ganteng** 😎",
     "**Hadir Kak** 😉",
     "**Hadir Sayang** 😘",
     "**Hadir Kak Maap Telat** 🥺",
@@ -26,8 +26,8 @@ absen = [
 
 
 sayang = [
-    "hallo dior sayang 😍",
-    "hallo kak dior 😉",
+    "hallo joo sayang 😍",
+    "hallo kak joo 😉",
     "hadir sayang 😘",
     "sayang kangen 🥺",
     "sayang jangan kemana mana lagi ya 🥺",
@@ -103,7 +103,7 @@ async def redis(pong):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await pong.edit(
-        f"**⚡ DIOR-UBOT ⚡**\n"
+        f"**⚡ JOO-UBOT ⚡**\n"
         f"** ▹  Sɪɢɴᴀʟ   :** "
         f"`%sms` \n"
         f"** ▹  Uᴘᴛɪᴍᴇ  :** "
@@ -151,7 +151,7 @@ async def redis(pong):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await pong.edit(
-        f"**⚡DIOR-UBOT⚡**\n"
+        f"**⚡JOO-UBOT⚡**\n"
         f"➾ __Signal__    __:__ "
         f"`%sms` \n"
         f"➾ __Uptime__ __:__ "
