@@ -1,10 +1,10 @@
-<h1 align="center">GeGe Gaming Ga Ges</h1>
+#JOO-UBOT
 
 <p align="center">
-    <a href="https://github.com/DIORrios285/DIOR-UBOT/commits/DIOR-UBOT"><img 
-src="https://img.shields.io/github/last-commit/DIORrios285/DIOR-UBOT?color=ff0000&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/DIORrios285/DIOR-UBOT"> <img 
-src="https://img.shields.io/github/repo-size/DIORrios285/DIOR-UBOT?logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ikhsantarjo/JOO-UBOT/commits/JOO-UBOT"><img 
+src="https://img.shields.io/github/last-commit/ikhsantarjo/JOO-UBOT?color=ff0000&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ikhsantarjo/JOO-UBOT"> <img 
+src="https://img.shields.io/github/repo-size/ikhsantarjo/JOO-UBOT?logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"><img 
 src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-purple?style=for-the-badge&logo=appveyor&logoColor=green"/>
@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 </a> </p>
 
 ## DEPLOY TO HEROKU 💜
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DIORrios285/DeployDior/tree/main">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ikhsantarjo/DeployJoo/tree/main">
 <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-DE1EFB?style=flat&logo=heroku" width="250" height="38.60" />
 </a></p>
 
